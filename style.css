@@ -34,6 +34,7 @@ body {
 
 .donate-today{
     text-align: center;
+   
 }
 .donate-today h1{
     font-size: 50px;
@@ -56,6 +57,48 @@ body {
 }
 .btn{
    margin-top: 40px;
+}
+.card-style{
+    display: flex;
+   
+    padding: 20px 40px;
+}
+.style-card{
+    width: 33%;
+    
+    margin: 15px;
+    
+    padding: 25px;
+    text-align: justify;
+    border-radius: 15px;
+}
+#first{
+    background-color: beige;
+}
+#second{
+    background-color: aqua;
+}
+#third{
+    background-color: blueviolet;
+}
+.three{
+   padding-top: 40px;
+}
+.about{
+    color: tomato;
+}
+.sec-4{
+    display: flex;
+    padding-top: 40px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 55px;
+}
+.half-width2{
+    width: 50%;
+    padding-left: 25px;
+    border-radius: 20px;
 }
 
 
