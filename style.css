@@ -1,0 +1,29 @@
+body{
+    font-family: 'Gentium Book Plus', serif;
+        font-family: 'Inter', sans-serif;
+        margin: 0;
+}
+.bg-img{
+    background-image: url(/images/donation7.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    width: auto;
+    height: 669px;
+    padding: 40px 80px;
+    
+}
+.bg-img h1{
+    font-size: 60px;
+}
+.bg-img p{
+    font-size: 25px;
+    font-weight: 700;
+}
+.button{
+    color: white;
+    background-color: tomato;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 40px;
+}
