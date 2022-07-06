@@ -101,5 +101,23 @@ body {
     border-radius: 20px;
 }
 
+#email-box{
+    width: 250px;
+    height: 30px;
+    
+}
+.footer{
+    background-color: black;
+    margin-top: 100px;
+}
+.donate-today h4{
+    color: red;
+    padding-top: 30px;
+}
+.footer-peg{
+    color: white;
+    padding-bottom: 30px;
+}
+
 
 
