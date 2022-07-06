@@ -4,7 +4,7 @@ body {
     margin: 0;
 }
 .bg-img{
-    background-image: url(/images/donation7.jpg);
+    background-image: url(./images/donation7.jpg);
     background-repeat: no-repeat;
     text-align: center;
     color: white;
